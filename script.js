@@ -23,7 +23,7 @@ function createData(obj) {
     			return true;
     		}
     		else{
-    			console.log("nie podano odpowiednich danych");
+    			console.log("Nie podano odpowiednich danych");
     			return false
     		}
     	}
